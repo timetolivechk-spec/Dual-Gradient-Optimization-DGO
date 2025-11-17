@@ -132,3 +132,4 @@ if __name__ == "__main__":
     print("\nНа графике отмечены все равнозначные минимумы (жёлтые звёзды с подписями).")
 
     animate_dgo(func, histories, x_min, x_max, best, all_minima)
+
